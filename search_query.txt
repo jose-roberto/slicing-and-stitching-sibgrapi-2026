@@ -1,0 +1,65 @@
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("memory efficient")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("memory efficient" AND ("pre-processing" OR "preprocessing"))
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("memory consumption")
+
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("preprocessing strategy")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("preprocessing review" OR "pre-processing review")
+
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("resize" OR "resizing" OR "resampling" OR "downsampling" OR "resolution reduction")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("resizing strategy")
+
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("patch strategy")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("patch-based")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("patch based inference")
+
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("sliding window inference")
+
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("whole volume")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("slicing")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("stitching")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("slicing" AND "stitching")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("patch stitching")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("reconstruction")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("subsampling reconstruction")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("interleaved sampling")
+(("3d medical image" OR "volumetric medical image") AND "segmentation") AND ("resampling preprocessing")
+
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("memory efficient" AND ("pre-processing" OR "preprocessing"))
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("memory consumption" AND ("pre-processing" OR "preprocessing"))
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("GPU memory" AND ("pre-processing" OR "preprocessing"))
+
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("preprocessing strategy" or "pre-processing strategy")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("preprocessing review" OR "pre-processing review")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("comparative study") AND ("preprocessing" OR "pre-processing")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("ablation study") AND ("preprocessing" OR "pre-processing")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("benchmark") AND ("preprocessing" OR "pre-processing")
+
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("resize" OR "resizing" OR "resampling" OR "downsampling" OR "resolution reduction")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("resize" OR "resizing" OR "resampling" OR "downsampling" OR "resolution reduction") AND ("preprocessing" OR "pre-processing")
+
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("patch" OR "patch-based" OR "patch based" OR "patch strategy" OR "patch based inference")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("patch" OR "patch-based" OR "patch based" OR "patch strategy" OR "patch based inference") AND ("preprocessing" OR "pre-processing")
+
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("sliding window inference")
+
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("whole volume")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("slicing")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("stitching")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("slicing" AND "stitching")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("patch stitching")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("reconstruction")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("subsampling reconstruction")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("interleaved sampling")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("resampling preprocessing")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("nnU-Net preprocessing")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("nnU-Net resampling")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("nnU-Net patch size")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("nnU-Net memory constraints")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("nnU-Net full resolution")
+("3D medical segmentation" OR "volumetric medical segmentation") AND ("nnU-Net cascade")
+
+("3D medical image" OR "volumetric medical image" OR "3D medical segmentation" OR "volumetric medical segmentation") AND ("preprocessing" OR pre-processing") AND ("slicing" OR "stitching" OR "slicing and stitching" OR "reconstruction" OR "subsampling reconstruction" OR "resampling preprocessing" OR "whole volume") AND ("patch" OR "patch-based" OR "patch based" OR "patch strategy" OR "patch based inference") AND ("resize" OR "resizing" OR "resampling" OR "downsampling" OR "resolution reduction")
+
+
+
+
